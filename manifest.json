@@ -1,7 +1,7 @@
 {
     "name": "Blackboard Grade Calculator",
     "description": "Helps tallying grades on blackboard",
-    "version": "1.3",
+    "version": "1.4",
     "manifest_version": 2,
     "update_url": "https://clients2.google.com/service/update2/crx",
     "content_scripts": [
